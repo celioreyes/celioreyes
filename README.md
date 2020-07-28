@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola👋, I'm Celio Reyes!
+
+🔭 I’m a Software Engineer currently writing Go services for [@RedVentures](https://github.com/RedVentures)
+
+
+🌱 I’m currently learning how to make a game using [@Godot](https://github.com/godotengine/godot) outside of work!
+
+Check out my progress on my [Github Board](https://github.com/orgs/gamedevbycelio/projects/1)
 
 <!--
 **celioreyes/celioreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
