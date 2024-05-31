@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🔭 I’m a Software Engineer currently writing Go services for [@Flyclops](https://github.com/flyclops)
 
-🌱 I’m currently learning game development using Unity and Raylib
+🌱 I’m currently learning game development using Unity and [Raylib](https://github.com/raysan5/raylib)
 
 🕹 Checkout my public game projects here!<br>
 
